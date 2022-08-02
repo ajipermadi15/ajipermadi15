@@ -1,7 +1,7 @@
 ### Hello Good People! (or not) 👋
 
-My name is Akhmad Aji Permadi, u can call me Ji (or anything else). I'm a mathematics student at ITB (3rd years).
-I'm from Bojonegoro, an area in the province of East Java. You can find me on [![Instagram][4.2]][4],  or on [![LinkedIn][3.2]][3].
+My name is Akhmad Aji Permadi, u can call me Ji (or anything else).
+You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
